@@ -1,0 +1,153 @@
+
+
+
+
+
+
+
+
+.navbar-default .navbar-brand {
+    color: #d8b8b8;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:active,
+.navbar-default .navbar-brand.active {
+    color: #d8b8b8;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #d8b8b8;
+    background-color: #d8b8b8;
+}
+
+.navbar-default .nav li a:hover,
+.navbar-default .nav li a:focus {
+    outline: 0;
+    color: #d8b8b8;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #d8b8b8;
+}
+
+.navbar-default .navbar-nav>.active>a {
+    background-color: #d8b8b8;
+}
+
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    background-color: #d8b8b8;
+}
+
+.menu-wrap a:hover,
+.menu-wrap a:focus {
+	color: #d8b8b8;
+}
+
+.menu-wrap .logo {
+    color: #d8b8b8;
+}
+
+.menu-button {
+    background: #d8b8b8;
+}
+
+.header .intro-text h1 span {
+    color: #d8b8b8;
+}
+
+.main-title strong {
+    color: #d8b8b8;
+}
+
+.portfolio-caption a i {
+    color: #d8b8b8;
+}
+
+
+.welcome-section:hover .border {
+    border-color: #d8b8b8;
+}
+
+.welcome-section:hover h4 {
+    color: #d8b8b8;
+}
+
+.about-text li i {
+    color: #d8b8b8;
+}
+
+.about-us-section-2 .carousel-indicators li,
+.project-image .carousel-indicators li {
+	border: 2px solid #d8b8b8 !important;
+}
+
+.about-us-section-2 .carousel-indicators .active,
+.project-image .carousel-indicators .active {
+	background-color: #d8b8b8;
+}
+
+.owl-theme .owl-controls .owl-buttons div {
+	background: #d8b8b8;
+}
+
+
+.team-member .team-details {
+    background-color: #d8b8b8;
+}
+
+.owl-theme .owl-controls .owl-page.active{
+    background-color: #d8b8b8;
+}
+
+.contact .form-control:focus {
+    border-color: #d8b8b8;
+    box-shadow: none;
+}
+
+
+
+.team-details li a {
+    background: #d8b8b8;
+}
+
+.progress-bar {
+    background: #d8b8b8;
+}
+
+
+.pricing-tables .pricing-table.highlight-plan .plan-name {
+    background: #d8b8b8;
+}
+
+.pricing-tables .pricing-table.highlight-plan .plan-signup {
+    background: #d8b8b8;
+}
+
+
+#main-slide .slider-content h1 strong {
+    color: #d8b8b8;
+}
+
+.latest-post .post-details .date {
+    background: #d8b8b8;
+}
+
+.custom-tab .nav-tabs.nav-justified {
+    background: #d8b8b8;
+}
+
+.plan-name {
+    background: #d8b8b8;
+}
+
+.plan-signup {
+    background: #d8b8b8;
+}
+
+.dot1, .dot2 {
+    background-color: #d8b8b8;
+}
